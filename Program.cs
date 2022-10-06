@@ -1,4 +1,4 @@
-﻿using LineComparision.cs;
+﻿using UseCase3CompairOfTwoLine.cs;
 
 namespace Line_Comparision
 {
@@ -9,7 +9,7 @@ namespace Line_Comparision
             //Console.WriteLine("Welcome to Line Comparison Computation");
             //LengthOfLine.Length();
             //LengthEqual.Length();
-            UserCase1LengthOfLine.Length();
+            UC3Compair.Length();
         }
     }
 }
